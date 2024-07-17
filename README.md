@@ -5,7 +5,7 @@
 🌱 Check my [portfolio](https://portfolio-git-main-yurika-hokamas-projects.vercel.app/) :)
 
 ## SKILLS
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,jquery,nodejs,nextjs,react,ts,linux,mysql,firebase,vite,vscode,postgres,bootstrap,figma,github,gmail,notion,gmail,wordpress,windows,ubuntu&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,jquery,nodejs,nextjs,react,ts,linux,mysql,firebase,vite,vscode,postgres,bootstrap,figma,github,notion,wordpress,windows,ubuntu&theme=light)](https://skillicons.dev)
 
 ## CONTACTS
 <a href="https://www.linkedin.com/in/yurihoka/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
